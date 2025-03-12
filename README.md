@@ -79,3 +79,4 @@ These files provide **step-by-step instructions** for lab exercises.
 - Share your labs for **learning and collaboration**.  
 
 ---
+**ALL LOWERCASE** username and password for all endpoints is cisco
